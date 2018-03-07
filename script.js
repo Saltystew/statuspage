@@ -2,12 +2,7 @@ $(document).ready(function () {
 	const config = {
 		uptimerobot: {
 			api_keys: [
-				"m780064142-0c40e8dfe56e316d773f691f",
-				"m780064172-bb8740c2fa9b01e79ae1816f",
-				"m780064176-d54a380f84fe0ee858812c12",
-				"m780079004-b4695aa518d32df04ac5e17a",
-				"m780079005-b9fe41107c917655d005a6e1",
-				"m780079006-dd20ff99199c8f8eb850a77f",
+				"m780088959-4835afddfa0955b25fccf2ee",
 			],
 			logs: 1,
 			response_times: 1,
@@ -17,7 +12,7 @@ $(document).ready(function () {
 			response_times_warning: 600,
 		},
 		github: {
-			org: 'vertig0ne',
+			org: 'saltystew',
 			repo: 'statuspage'
 		}
 	};
