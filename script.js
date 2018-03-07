@@ -2,7 +2,8 @@ $(document).ready(function () {
 	const config = {
 		uptimerobot: {
 			api_keys: [
-				"m780088959-4835afddfa0955b25fccf2ee",
+				"m780088959-4835afddfa0955b25fccf2ee
+				"m780089117-d68992fc71477764bc3e50ba",
 			],
 			logs: 1,
 			response_times: 1,
